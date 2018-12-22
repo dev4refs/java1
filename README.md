@@ -58,5 +58,9 @@ https://github.com/lerngruppe-nbg/java1
 
 # Konfiguration
 
+# [INTERNAL] 
+
+## Eclipse Projekteinstellungen
+
 
 
