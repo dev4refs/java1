@@ -1,15 +1,11 @@
-# java1
+java1
+---
 
-rklärung, Metainformation...
+# Software & Download 
 
-Bitte nach dem Öffnen die Fensterbreite vom Editor so verringern, dass die Asci-Zeichen über die volle Breite gehen, aber keinen Zeilenumbruch erzeugen.
+## JDK 
 
-
-//////////////////////////////////////////////////////////////////////////////////////////
-1) Software & Download 
-//////////////////////////////////////////////////////////////////////////////////////////
-
-JDK 1.8.1
+### JDK 1.8.1
 
 Download hier:
 "Java SE Development Kit 8u192" 
@@ -21,9 +17,7 @@ Installieren hier:
 C:\Program Files\Java\jdk1.8.0_192
 
 
-------------------------------------------------------------------------------------------
-
-JDK 1.8.1 - Demos und Samples
+### JDK 1.8.1 - Demos und Samples
 
 Download hier:
 "Java SE Development Kit 8u192 Demos and Samples Downloads" 
@@ -34,9 +28,7 @@ https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.
 Installiert hier:
 C:\Users\Thomas\01-src\001-java1\jdk8u192 
 
-__________________________________________________________________________________________
-
-Eclipse IDE
+## Eclipse IDE
 
 Version: 
 2018-12
@@ -57,27 +49,13 @@ Workspace:
 C:\Users\Thomas\01-src\001-java1\workspace1
 
 
-__________________________________________________________________________________________
+## Tomcat
 
-Tomcat
-
-//////////////////////////////////////////////////////////////////////////////////////////
-2) GitHub
-//////////////////////////////////////////////////////////////////////////////////////////
+## GitHub
+https://github.com/lerngruppe-nbg/java1
 
 
-
-
-//////////////////////////////////////////////////////////////////////////////////////////
-3) Konfiguration
-//////////////////////////////////////////////////////////////////////////////////////////
+# Konfiguration
 
 
 
-
-
-??????????????????????????????????????????????????????????????????????????????????????????
-Material
-??????????????????????????????????????????????????????????????????????????????????????????
-
-Temp, Sonstiges, etc
